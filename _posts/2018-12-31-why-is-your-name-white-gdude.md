@@ -1,4 +1,5 @@
 ---
+excerpt_separator: <!--more-->
 tags: [discord]
 title: "Updated: Why is your name white, gdude?"
 ---
@@ -9,6 +10,8 @@ which is where most of my friends and the members of my old community hang out.*
 Some of you are probably confused. You might be wondering why my other posts are gone, or why I'm no longer on 
 Python Discord or its related servers. This post is intended to serve as an explanation - but first, let's take 
 a look at how I got to this point. 
+
+<!--more-->
 
 # Where it all began
 
