@@ -1,4 +1,5 @@
 ---
+tags: [discord]
 title: "Updated: Why is your name white, gdude?"
 ---
 
