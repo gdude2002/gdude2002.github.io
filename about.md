@@ -1,5 +1,9 @@
 ---
+author_profile: true
+classes: wide
+layout: single
 title: "About Me"
+toc: false
 ---
 
 I'm an English programmer living in Ireland, specialising mainly in Python but with experience
