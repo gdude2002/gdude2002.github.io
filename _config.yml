@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Gareth Coles"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Python developer that's just trying to be."
+  bio              : "A Python developer, just trying to do my best."
   location         : "Ireland"
   email            :
   links:
