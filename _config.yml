@@ -91,6 +91,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://www.facebook.com/gdude2002"
   - "https://twitter.com/gdude2002"
   - "https://github.com/gdude2002"
 
@@ -110,22 +111,38 @@ author:
   location         : "Ireland"
   email            :
   links:
+    - label: "Discord: gdude#2002"
+      icon: "fab fa-fw fa-discord"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/gdude2002"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gdude2002"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gdude2002"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/gdude2002"
 
 # Site Footer
 footer:
   links:
+    - label: "Discord: gdude#2002"
+      icon: "fab fa-fw fa-discord"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/gdude2002"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gdude2002"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gdude2002"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/gdude2002"
 
 
 # Reading Files
