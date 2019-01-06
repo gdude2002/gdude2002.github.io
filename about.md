@@ -11,8 +11,8 @@ in a wide range of technologies. I've been working in IT from a hobbyist perspec
 and have many related interests - including devops (including orchestration, CI and deployment), 
 tooling, community and project management, to name a few.
 
-As a huge supporter of the open source community at large, you'll find many of my projects are
-available for free, under permissive open-source licenses. You can see below for my primary 
+As a huge supporter of the open source community at large, you'll find that many of my projects 
+are available for free, under permissive open-source licenses. You can see below for my primary 
 project involvements.
 
 ## Python Discord (2017 - 2018)
