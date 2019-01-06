@@ -11,9 +11,9 @@ a look at how I got to this point.
 
 # Where it all began
 
-I'm a classical Reddit lurker. Hanging out in seedy alleys, watching and remaining hidden, peeking around corners 
-- and one day, I noticed a new post on `r/Python` from this guy named Joseph who was advertising a Python community
- on Discord. 
+I'm a classical Reddit lurker. Hanging out in seedy alleys, watching and remaining hidden, peeking around corners -
+and one day, I noticed a new post on `r/Python` from this guy named Joseph who was advertising a Python community
+on Discord. 
 
 Up until this point I was wondering why I'd never seen a Python Discord server around before - and since I was 
 right in the middle of my love affair with Discord, I decided to join and see what was going on. 
@@ -23,8 +23,8 @@ most part so I decided to stick around and help out. Within a few weeks, I ended
 
 One of the current staff members at the time was a real piece of work. A huge bully that let power run to his head, 
 and that thought he was above everyone else. Once I joined the team, he didn't last long - with the help of an admin,
- I made a complaint and he was removed from the team. I would later end up banning him at the start of our first 
- code jam. 
+I made a complaint and he was removed from the team. I would later end up banning him at the start of our first 
+code jam. 
 
 # Growth and achievement
 
