@@ -22,9 +22,8 @@ and have many related interests - including devops (including orchestration, CI 
 tooling, community and project management, to name a few.
 
 As a huge supporter of the open source community at large, you'll find many of my projects are
-available for free, under permissive open-source licenses. You can head over to the 
-[portfolio page](/portflio) for more information on that, or see below for my primary project 
-involvements.
+available for free, under permissive open-source licenses. You can see below for my primary 
+project involvements.
 
 ## Python Discord (2017 - 2018)
 
