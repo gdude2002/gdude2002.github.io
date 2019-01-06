@@ -44,9 +44,9 @@ projects [available on GitHub](https://github.com/python-discord) - including a 
 Many of these projects are made use of within PyDis itself, such as their website and Discord bot 
 projects.
 
-In the last days of 2018, I decided to [leave the community for mental health reasons](#TODO-add-link).
-It's still an excellent community, full of amazing people - but sometimes you just need to take care
-of yourself.
+In the last days of 2018, I decided to 
+[leave the community for mental health reasons](/why-is-your-name-white-gdude/). It's still an 
+excellent community full of amazing people - but sometimes you just need to take care of yourself.
 
 ## Glowstone (2015 - Present)
 
