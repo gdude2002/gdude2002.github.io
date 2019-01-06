@@ -1,13 +1,6 @@
-Hello, and welcome to my site! This site is a dedicated repository of information about me,
-the gserv.me operation, the services I host, and the people I work with. It also serves
-as a personal blog, replacing the old Ghost-powered blog I used to maintain.
-
-This site is powered by Jekyll, generated directly from Markdown files on GitHub and served
-by GitHub Pages. If you're curious about how this looks, 
-[check out the repository](https://github.com/gdude2002/gdude2002.github.io)! All post comments
-are also stored there as issues, handled by [Utterances](https://utteranc.es/).
-
-## About Me
+---
+title: "About Me"
+---
 
 I'm an English programmer living in Ireland, specialising mainly in Python but with experience
 in a wide range of technologies. I've been working in IT from a hobbyist perspective since 2008,
