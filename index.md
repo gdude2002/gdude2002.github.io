@@ -1,5 +1,6 @@
 ---
 layout: home
+classes: wide
 ---
 
 ## Welcome to GitHub Pages
