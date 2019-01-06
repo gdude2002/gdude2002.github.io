@@ -1,6 +1,7 @@
 ---
 layout: home
 classes: wide
+author_profile: true
 ---
 
 ## Welcome to GitHub Pages
