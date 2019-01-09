@@ -288,3 +288,32 @@ defaults:
       related: true
       toc: true
       toc_label: "Contents"
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: false
+      comments: false
+      related: false
+      toc: false
+
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: false
+      comments: false
+      related: false
+      toc: false
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/

@@ -2,6 +2,7 @@
 author_profile: true
 classes: wide
 layout: single
+paermalink: /about/
 title: "About Me"
 toc: false
 ---
